@@ -1,4 +1,6 @@
 # COVID-CNN
+A convolutional neural network to identify COVID-19 in lung x-rays.
+
 This project was completed as a part of COSC 5010: Dynamic Big Data at the University of Wyoming along with Tyler Johnson. In this project, we set out to find a method to
 identify COVID-19 in chest x-rays using machine learning to expedite the process of COVID-19 testing. To do so, we chose to use a convolutional neural network (CNN), a machine learning
 technique used to analyze visual imagery. To create our CNN, we used Keras, a popular Python library for CNNs that interfaces with TensorFlow. We chose this library due to its ability
